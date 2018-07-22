@@ -956,3 +956,8 @@ vendors:
 css: css
 js: js
 images: images
+
+
+recent_posts_title: Recent Posts
+recent_posts_layout: block
+recent_posts: true
