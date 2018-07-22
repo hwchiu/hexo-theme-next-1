@@ -114,7 +114,7 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash from link value (/archives -> archives).
 # Usage: `Key: /link/ || icon`
-# Key is the name of menu item. If translate for this menu will find in languages - this translate will be loaded; if not - Key name will be used. Key is case-senstive.
+# Key is the name of menu item. If translate for this menu will find in ltrueanguages - this translate will be loaded; if not - Key name will be used. Key is case-senstive.
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
@@ -184,11 +184,15 @@ github_banner: https://github.com/hwchiu || Follow me on GitHub
 
 # Blog rolls
 links_icon: link
-links_title: Links
+links_title: Friends
 links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  KKDAI 大大: http://www.evanlin.com/
+  凱仁大大: https://kairen.github.io/
+  小飛機: https://blog.pichuang.com.tw/
+  CNTUG: https://www.facebook.com/groups/cloudnative.tw/
+  SDNDS-TW: https://www.facebook.com/groups/sdnds.tw/
 
 # Sidebar Avatar
 avatar:
