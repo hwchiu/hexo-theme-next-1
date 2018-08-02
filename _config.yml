@@ -39,7 +39,7 @@ cache:
 # To get or check favicons visit: https://realfavicongenerator.net
 # Put your favicons into `hexo-site/source/` (recommend) or `hexo-site/themes/next/source/images/` directory.
 
-keywords: "Networking,SDN,Software Defined Networking,SDS,Kubernetes,CloudNative,k8s"
+#keywords: "Kubernetes, Networking, SDN"
 # Default NexT favicons placed in `hexo-site/themes/next/source/images/` directory.
 # And if you want to place your icons in `hexo-site/source/` root directory, you must remove `/images` prefix from pathes.
 
