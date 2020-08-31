@@ -185,14 +185,15 @@ github_banner: https://github.com/hwchiu || Follow me on GitHub
 # Blog rolls
 links_icon: link
 links_title: Friends
-links_layout: block
-#links_layout: inline
+#links_layout: block
+links_layout: inline
 links:
   KKDAI 大大: http://www.evanlin.com/
   凱仁大大: https://kairen.github.io/
   小飛機: https://blog.pichuang.com.tw/
   CNTUG: https://www.facebook.com/groups/cloudnative.tw/
   SDNDS-TW: https://www.facebook.com/groups/sdnds.tw/
+  Jack: https://medium.com/@yayajacky
 
 # Sidebar Avatar
 avatar:
